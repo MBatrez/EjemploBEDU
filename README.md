@@ -1,2 +1,3 @@
-## Bienvenidos al repositorio de desarrollo
-# En este repositorio se realizará las ediciones principales de código 
+## Bienvenidos al repositorio de testing
+# En este repositorio se realizará las ediciones y pruebas de testeo de código
+ 
